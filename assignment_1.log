@@ -1,0 +1,12 @@
+2023-06-19 22:28:43,183 [INFO] Created spark session
+2023-06-19 22:28:45,770 [INFO] Created  dataframe with employee details
+2023-06-19 22:28:47,765 [INFO] Got selected column values
+2023-06-19 22:28:48,468 [INFO] Added country,department,age columns 
+2023-06-19 22:28:49,189 [INFO] Changed salary in salary column
+2023-06-19 22:28:49,892 [INFO] Changed datatype of dob and salary as a string
+2023-06-19 22:28:50,531 [INFO] Added new salary column
+2023-06-19 22:28:51,233 [INFO] Renamed the columns
+2023-06-19 22:28:51,951 [INFO] Got maximum salary from the column
+2023-06-19 22:28:52,645 [INFO] Dropped the column department and age column
+2023-06-19 22:28:53,305 [INFO] Got the distinct value from dob and salary column
+2023-06-19 22:28:54,369 [INFO] Closing down clientserver connection
