@@ -8,7 +8,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler("../../assignment_1.log"),
+        logging.FileHandler("../../assignment_2.log"),
         logging.StreamHandler(sys.stdout)
     ])
 
