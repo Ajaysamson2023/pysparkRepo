@@ -1,3 +1,4 @@
+
 2023-06-19 22:28:43,183 [INFO] Created spark session
 2023-06-19 22:28:45,770 [INFO] Created  dataframe with employee details
 2023-06-19 22:28:47,765 [INFO] Got selected column values
