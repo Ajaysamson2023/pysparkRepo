@@ -8,7 +8,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler("../../assignment_1.log"),
+        logging.FileHandler("../../pyspark_assignment.log"),
         logging.StreamHandler(sys.stdout)
     ])
 
